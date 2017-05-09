@@ -1,0 +1,25 @@
+{
+  "name": "whitebaordca",
+  "version": "1.0.0",
+  "description": "CA work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Rebekah McAllister",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bekahm94/canvasWhiteboard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bekahm94/canvasWhiteboard/issues"
+  },
+  "homepage": "https://github.com/bekahm94/canvasWhiteboard#readme"
+}
